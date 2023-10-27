@@ -12,6 +12,8 @@ This project is an innovative tool that converts PDF documents into spoken words
 
 - **Open Source**: The Eloquent Reader is open-source, allowing for community contributions and improvements.
 
+![The Eloquent Reader](https://i.ibb.co/Qk8xWH2/ezgif-com-gif-maker.gif)
+
 ## Acknowledgments
 I acknowledge the open-source libraries and tools that make this project possible.
 - Hat tip to anyone whose code was used.
