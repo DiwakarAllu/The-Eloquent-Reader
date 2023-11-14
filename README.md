@@ -1,5 +1,5 @@
 # Unveiling The Eloquent Reader: Transforming PDFs into Spoken Words. 
-This project is an innovative tool that converts PDF documents into spoken words, offering accessibility and convenience to users who prefer an auditory format. The Eloquent Reader empowers you to listen to your favorite books, articles, or documents on the go.
+This project is an innovative tool that converts PDF documents into spoken words, offering accessibility and convenience to users who prefer an auditory format. The Eloquent Reader empowers you to listen to your favorite books, articles, or documents on the go. 
 
 
 ## Features
